@@ -1,0 +1,7 @@
+- [ ] visualize data
+    - histograms
+    - scatterplots
+    - heatmap
+    - pairplot
+    - clusters
+- [ ] prediction models
